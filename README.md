@@ -27,7 +27,7 @@ vehicle-can-analytics/
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_anomaly.ipynb
-│   └── eda.ipynb
+│   └── 03_ml.ipynb
 │
 ├── outputs/
 │   ├── 01_target_distribution.png

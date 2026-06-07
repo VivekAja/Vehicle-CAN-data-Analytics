@@ -121,7 +121,7 @@ Techniques include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/VivekAja/vehicle-can-analytics.git
+git clone https://github.com/VivekAja/Vehicle-CAN-data-Analytics.git
 cd vehicle-can-analytics
 ```
 

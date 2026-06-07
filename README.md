@@ -121,7 +121,7 @@ Techniques include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/vehicle-can-analytics.git
+git clone https://github.com/<VivekAja>/vehicle-can-analytics.git
 cd vehicle-can-analytics
 ```
 
@@ -183,6 +183,6 @@ Vehicle telemetry analytics can help organizations:
 
 ## Author
 
-Vivek
+Vivek A
 
 Machine Learning | Data Science | Mechanical Engineering

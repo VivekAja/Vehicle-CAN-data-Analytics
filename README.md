@@ -35,6 +35,10 @@ vehicle-can-analytics/
 │   ├── ...
 │   └── 15_multi_subsystem_cooccurrence.png
 │
+├── src/
+│   ├── predict.py
+│   ├── simulate.py
+│
 ├── requirements.txt
 └── README.md
 ```
@@ -152,6 +156,9 @@ Run notebooks in the following order:
 
 1. `01_eda.ipynb`
 2. `02_anomaly.ipynb`
+3. `03_ml.ipynb`
+
+---
 
 Generated visualizations will be saved in the `outputs/` directory.
 

@@ -122,7 +122,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/VivekAja/Vehicle-CAN-data-Analytics.git
-cd vehicle-can-analytics
+cd Vehicle-CAN-data-Analytics
 ```
 
 Create a virtual environment:
